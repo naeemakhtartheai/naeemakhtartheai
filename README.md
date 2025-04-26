@@ -35,7 +35,7 @@
 | 💡 Project | 🧾 Description | 🧰 Tech |
 |-----------|----------------|--------|
 | [🤖 AI Chatbot](https://github.com/naeemakhtartheai/ai-chatbot) | Chatbot using transformers for natural conversation | Python, Hugging Face, Streamlit |
-| [📷 Mask Detection App](https://github.com/naeemakhtartheai/mask-detector) | Real-time face mask detection using CNN & OpenCV | Keras, OpenCV |
+| [📷 Mask Detection App](https://github.com/naeemakhtartheai/mask-detection-app) | Real-time face mask detection using CNN & OpenCV | Keras, OpenCV |
 | [🧠 Fake News Classifier](https://github.com/naeemakhtartheai/fake-news-classifier) | Detects fake news from headlines using NLP & ML | Scikit-learn, NLP |
 
 ---
